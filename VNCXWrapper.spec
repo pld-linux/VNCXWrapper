@@ -40,7 +40,7 @@ $BCB/bin/bpr2mak \
     -t$BCB/bin/default.gmk \
     -oMakefile \
     %{name}.bpr
-    
+
 %{__make}
 cd ..
 
