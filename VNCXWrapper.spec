@@ -11,6 +11,7 @@ Release:	1
 License:	GPL
 Group:		X11/Applications/Networking
 Source0:	%{name}-%{version}.tgz
+# Source0-md5:	1d732e29379909360a571c743c4470b4
 #URL:		http://www.pld.org.pl/
 BuildRequires:	kylix3_open
 Requires:	vnc
