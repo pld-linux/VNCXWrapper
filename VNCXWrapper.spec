@@ -37,9 +37,9 @@ cd src
 BCB="/usr/share/kylix3_open/"
 export BCB
 $BCB/bin/bpr2mak \
-    -t$BCB/bin/default.gmk \
-    -oMakefile \
-    %{name}.bpr
+	-t$BCB/bin/default.gmk \
+	-oMakefile \
+	%{name}.bpr
 
 %{__make}
 cd ..
