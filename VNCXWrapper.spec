@@ -17,7 +17,6 @@ Requires:	vnc
 Requires:	kylix3_open-libs
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
-%define		_prefix		/usr/X11R6
 
 %description
 VNCXWrapper is a simple wrapper for vncviewer. At now VNCXWrapper
