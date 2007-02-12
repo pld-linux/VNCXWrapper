@@ -4,7 +4,7 @@
 # - see README file for details.
 
 Summary:	VNCXWrapper - a simple wrapper for vncviewer
-Summary(pl):	VNCXWrapper - prosty interfejs do vncviewera
+Summary(pl.UTF-8):   VNCXWrapper - prosty interfejs do vncviewera
 Name:		VNCXWrapper
 Version:	0.1
 Release:	1
@@ -24,9 +24,9 @@ VNCXWrapper is a simple wrapper for vncviewer. At now VNCXWrapper
 has almost full support for vncviewer. It can manage all your VNC
 sessions saving all session settings.
 
-%description -l pl
+%description -l pl.UTF-8
 VNCXWrapper to prosty interfejs do vncviewera. Aktualnie ma prawie
-pe³n± obs³ugê vncviewera. Mo¿e obs³u¿yæ wszystkie sesje VNC zapisuj±c
+peÅ‚nÄ… obsÅ‚ugÄ™ vncviewera. MoÅ¼e obsÅ‚uÅ¼yÄ‡ wszystkie sesje VNC zapisujÄ…c
 ich wszystkie ustawienia.
 
 %prep
