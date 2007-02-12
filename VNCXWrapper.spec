@@ -4,7 +4,7 @@
 # - see README file for details.
 
 Summary:	VNCXWrapper - a simple wrapper for vncviewer
-Summary(pl.UTF-8):   VNCXWrapper - prosty interfejs do vncviewera
+Summary(pl.UTF-8):	VNCXWrapper - prosty interfejs do vncviewera
 Name:		VNCXWrapper
 Version:	0.1
 Release:	1
